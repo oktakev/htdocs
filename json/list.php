@@ -8,7 +8,7 @@
       "Position": "Goalkeeper",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "Position": "Defender",
       "International": "Sweden",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android1.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android1.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "Position": "Defender",
       "International": "Ivory Coast",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android2.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android2.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android3.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android3.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "Position": "Defender",
       "International": "Argentina",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android4.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android4.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "Position": "MidFielder",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android5.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android5.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "Position": "Forward",
       "International": "Chile",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android6.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android6.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "Position": "Attacking MidFielder",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android7.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android7.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "Position": "Striker",
       "International": "Belgium",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android8.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android8.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "Position": "Striker",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android9.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android9.png"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android10.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android10.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "Position": "MidFielder",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android11.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android11.png"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "Position": "Goal Keeper",
       "International": "Portugal",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android12.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android12.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "Position": "Forward",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "http://github.com/oktakev/htdocs/json/android.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android.png"
     }
   ]
 }
