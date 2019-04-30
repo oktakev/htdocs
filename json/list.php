@@ -108,7 +108,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android10.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "Position": "MidFielder",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android11.png"
+      "Poster": "https://raw.githubusercontent.com/oktakev/htdocs/master/json/android1.png"
     },
     {
       "id": 13,
